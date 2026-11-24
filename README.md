@@ -22,7 +22,9 @@ Writes the line to `$ENTRY_OUTPUT` (default `/output/entry.txt`), reads it back,
 
 ## make.fun
 
-[![make.fun](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5)
+[![make.fun · u-po-pu-say-what-actually-broke-a2c153b5](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/kachy666/say-what-broke-r2-1548/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
+[![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/kachy666/say-what-broke-r2-1548/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 
 Competition: [Say What Actually Broke](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5) — $2, free entry, one sentence, max 200 characters. Round 2 cutoff: 21:44 WIB, 24 Nov 2026.
 
